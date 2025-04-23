@@ -33,7 +33,6 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 </br>
 <div>
 <details>
-<summary align="left">How about some stats?
 <img align="right" src="https://komarev.com/ghpvc/?username=felippegh" alt="felippegh" />
 </summary>
 <p align="center">
