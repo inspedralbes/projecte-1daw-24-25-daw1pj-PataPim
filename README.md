@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/55c7129f-804f-470b-9a9e-cc29afef664a)
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Bones som el grup de Alvaro y Bryan</h1>
 <h3 align="center">Formem part del GRUP 10</h3>
 
@@ -38,7 +38,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 <p>
 <a href="https://github.com/felippegh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/felippegeorge/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://www.instagram.com/felippegh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<a href="https://www.instagram.com/felippegh" target="_blank"><img alt="Taiga" src="https://docs.taiga.io/imgs/logo.png" /></a> 
 </p>
 </div>
 
