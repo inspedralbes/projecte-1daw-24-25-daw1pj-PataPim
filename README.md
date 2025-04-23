@@ -1,6 +1,6 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Bones som el grup de Alvaro y Bryan</h1>
-<h3 align="center">Formem part del GRUP 10 <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
+<h3 align="center">Formem part del GRUP 10</h3>
 
 <div align="center">
 Aquest es el disseny del projecte en l'apartat de github <br>
@@ -22,10 +22,6 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 <br>
 
   <div>
-
-- 👨‍💻 All of my projects are available  [here](https://github.com/felippegh?tab=repositories)
-
-- 💬 Ask me about anything <a href="https://github.com/felippegh/felippegh/issues/new"><b>here</b></a>
 
 - 📫 Also, you may send a nice letter to **felippegeorge@utexas.edu**
 
