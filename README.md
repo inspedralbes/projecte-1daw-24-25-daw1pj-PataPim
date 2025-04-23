@@ -19,6 +19,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 
   <h4>Diagrames casos d'ús</h4>
   <br></br>
+<p>
     <a href="docs/diagrama-casos-us.png" target="_blank">📄 Diagrama d'Usuari </a> <br></br>
     <a href="docs/diagrama-classes.png" target="_blank">📄 Diagrama del Tècnic </a> <br></br>
     <a href="docs/diagrama-bbdd.png" target="_blank">📄 Diagrama d'Administrador</a>
