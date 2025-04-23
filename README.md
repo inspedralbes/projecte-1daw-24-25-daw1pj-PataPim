@@ -6,9 +6,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
  <br>
 
 <i>Esperem que us agradi!</i> 🚀
-</br>
-</br>
-</br>
+
 </div>
 
 <div>
@@ -35,13 +33,11 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 <br>
 <br>
 <br>
-</br>
-</br>
-</br>
-</br>
-</br>
 <br>
-</br>
+<br>
+
+<br>
+
 <div align="center">
 <h3>Enllanços per trobar més informació sobre el projecte</h3>
 <p>
