@@ -21,11 +21,6 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 <br>
 <br>
 
-  <div>
-
-- 📫 Also, you may send a nice letter to **felippegeorge@utexas.edu**
-
-</div>
 <br>
 <br>
 <br>
