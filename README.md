@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/55c7129f-804f-470b-9a9e-cc29afef664a)
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Bones som el grup de Alvaro y Bryan</h1>
 <h3 align="center">Formem part del GRUP 10</h3>
 
