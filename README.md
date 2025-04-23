@@ -31,8 +31,8 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 </br>
 </br>
 </br>
-
-
+<br>
+</br>
 <div align="center">
 <h3>Where to find me</h3>
 <p>
