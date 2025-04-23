@@ -41,7 +41,6 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 </p>
 <p>
 <i>
-*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.
 </i>
 </p>
 </details>
@@ -77,10 +76,4 @@ Aquest es el disseny del projecte en l'apartat de github <br>
        <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
        <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" alt="phpstorm" width="45" height="45"/> </a>
 
-</div>
-
-<br>
-<div align="center">
-<h3>Support</h3>
-<p><a href="https://www.buymeacoffee.com/felippegh"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" /></a></p>
 </div>
