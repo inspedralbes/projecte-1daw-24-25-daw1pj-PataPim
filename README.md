@@ -6,7 +6,9 @@ Aquest es el disseny del projecte en l'apartat de github <br>
  <br>
 
 <i>Esperem que us agradi!</i> 🚀
-
+<br>
+<br>
+<br>
 </div>
 
 <div>
@@ -16,11 +18,10 @@ Aquest es el disseny del projecte en l'apartat de github <br>
   <h3>Diagrames del projecte</h3>
 
   <strong>Diagrames casos d'ús</strong>
-  <br></br>
   <p>
-    <a href="diagrames/Diagrama_CU_Usuari.drawio.png" target="_blank">📄 Diagrama d'Usuari </a> <br>
-    <a href="diagrames/Diagrama_CU_Tecnic.drawio.png" target="_blank">📄 Diagrama del Tècnic </a> <br>
-    <a href="diagrames/Diagrama_CU_Administrador.drawio.png" target="_blank">📄 Diagrama d'Administrador</a>
+<a href="diagrames/Diagrama_CU_Administrador.drawio.png"><img src="diagrames/Diagrama_CU_Administrador.drawio.png" width="150px" /></a>
+<a href="diagrames/Diagrama_CU_Tecnic.drawio.png"><img src="diagrames/Diagrama_CU_Tecnic.drawio.png" width="150px" /></a>
+<a href="diagrames/Diagrama_CU_Usuari.drawio.png"><img src="diagrames/Diagrama_CU_Usuari.drawio.png" width="150px" /></a>
   </p>
 </div>
 <br>
@@ -35,9 +36,11 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 <br>
 <br>
 <br>
-
 <br>
-
+<br>
+<br>
+<br>
+<br>
 <div align="center">
 <h3>Enllanços per trobar més informació sobre el projecte</h3>
 <p>
@@ -46,7 +49,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 </p>
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 <h3>Technologies and Tools I use</h3> 
