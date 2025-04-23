@@ -33,7 +33,6 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 </br>
 <div>
 <details>
-<img align="right" src="https://komarev.com/ghpvc/?username=felippegh" alt="felippegh" />
 </summary>
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felippegh&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
