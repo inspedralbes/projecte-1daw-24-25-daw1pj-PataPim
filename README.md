@@ -19,9 +19,9 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 
   <strong>Diagrames casos d'ús</strong>
   <p>
-<a href="diagrames/Diagrama_CU_Administrador.drawio.png"><img src="diagrames/Diagrama_CU_Administrador.drawio.png" width="150px" /></a>
-<a href="diagrames/Diagrama_CU_Tecnic.drawio.png"><img src="diagrames/Diagrama_CU_Tecnic.drawio.png" width="150px" /></a>
-<a href="diagrames/Diagrama_CU_Usuari.drawio.png"><img src="diagrames/Diagrama_CU_Usuari.drawio.png" width="150px" /></a>
+<a href="diagrames/Diagrama_CU_Administrador.drawio.png"></a>
+<a href="diagrames/Diagrama_CU_Tecnic.drawio.png"></a>
+<a href="diagrames/Diagrama_CU_Usuari.drawio.png"></a>
   </p>
 </div>
 <br>
