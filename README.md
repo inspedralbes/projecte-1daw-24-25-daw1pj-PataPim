@@ -1,12 +1,12 @@
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Felippe </h1>
-<h3 align="center">A passionate Software Developer  from Brazil <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Bones som el grup de Alvaro y Bryan</h1>
+<h3 align="center">Formem part del GRUP 10 <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
 
 <div align="center">
-You have finally discovered my Github profile, I was waiting for you! <br>
-Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Aquest es el disseny del projecte en l'apartat de github <br>
+ <br>
 
-<i>Happy Coding!</i> 🚀
+<i>Esperem que us agradi!</i> 🚀
 </br>
 </br>
 </br>
