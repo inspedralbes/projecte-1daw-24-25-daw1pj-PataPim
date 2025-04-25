@@ -51,7 +51,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 
 
  <strong>25/04/2025</strong> <br> 
-<p> Convertim el model E-Rconceptual de la base de dades a model Relacional (Creació de taules a la base de dades )</p> <br> <br>
+<p> Convertim el model E-Rconceptual de la base de dades a model Relacional (Creació de taules a la base de dades) i planifiquem el Sprint 1 que farem la setmana vinent</p> <br> <br>
 
 
 </details>
