@@ -28,7 +28,9 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
 
 
 
