@@ -25,8 +25,16 @@ Aquest es el disseny del projecte en l'apartat de github <br>
   </p>
 </div>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<div style="margin-top: 60px;">
+
+<div>
 <details>
 <summary align="left">Historial del projecte
 </summary>
