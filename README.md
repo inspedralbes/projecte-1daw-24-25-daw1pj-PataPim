@@ -38,16 +38,20 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 <details>
 <summary align="left">Historial del projecte
 </summary> <br> <br> 
- 
-<strong>22/04/2025</strong> <br> <br> 
+
+<strong>22/04/2025</strong> <br> 
 <p>En aquest dia creem el Taiga i el grup en el repositori de github també creem el disseny de tot el github per tenir una bona presentacio dels diagrames</p>
 <br> <br> 
 
- <strong>23/04/2025</strong> <br> <br>
+ <strong>23/04/2025</strong> <br> 
 <p> Vam crear els diagrames de casos d'us i els vaig pujar al github </p> <br> <br>
 
- <strong>24/04/2025</strong> <br> <br>
+ <strong>24/04/2025</strong> <br> 
 <p> Treballem el el model E-R y conceptual de la base de dades del usuaris tècnics,administrador</p> <br> <br>
+
+
+ <strong>25/04/2025</strong> <br> 
+<p> Convertim el model E-Rconceptual de la base de dades a model Relacional (Creació de taules a la base de dades )</p> <br> <br>
 
 
 </details>
