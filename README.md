@@ -34,7 +34,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 
 
 
-<div>
+<div style ="margin-top=60px;">
 <details>
 <summary align="left">Historial del projecte
 </summary>
