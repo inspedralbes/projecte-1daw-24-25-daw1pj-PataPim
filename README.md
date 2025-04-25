@@ -24,14 +24,6 @@ Aquest es el disseny del projecte en l'apartat de github <br>
     <a href="diagrames/Diagrama_CU_Administrador.drawio.png" target="_blank">📄 Diagrama d'Administrador</a>
   </p>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 
 <div style ="margin-top=60px;">
