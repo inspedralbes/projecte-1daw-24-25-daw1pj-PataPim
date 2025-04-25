@@ -44,10 +44,10 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 <br> <br> 
 
  <strong>23/04/2025</strong> <br> 
-<p> Vam crear els diagrames de casos d'us i els vaig pujar al github </p> <br> <br>
+<p> Vam crear els diagrames de casos d'us i els vaig pujar al github i començem l'esquema de pantalles (wireframe) </p> <br> <br>
 
  <strong>24/04/2025</strong> <br> 
-<p> Treballem el el model E-R y conceptual de la base de dades del usuaris tècnics,administrador</p> <br> <br>
+<p> Treballem el el model E-R y conceptual de la base de dades del usuaris tècnics,administrador acabem l'esquema de pantalles de les incidències </p> <br> <br>
 
 
  <strong>25/04/2025</strong> <br> 
