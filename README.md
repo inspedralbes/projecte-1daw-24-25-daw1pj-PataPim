@@ -29,31 +29,31 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 <br>
 <br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 <div>
 <details>
 <summary align="left">Historial del projecte
 </summary>
-<strong>22/04/2025</strong><br>
+<strong>22/04/2025</strong><br><br><br>
 <p>En aquest dia creem el Taiga i el grup en el repositori de github també creem el disseny de tot el github per a tenir una bona presentacio dels diagrames</p>
-
 
 </details>
 </div>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
 <h3>Enllanços per trobar més informació sobre el projecte</h3>
