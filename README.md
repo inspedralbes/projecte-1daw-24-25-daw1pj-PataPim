@@ -36,7 +36,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 
 <div>
 <details>
-<summary align="left">Historial del projecte
+<summary align="left">Fes click aquí sobre per veure l'historial del projecte
 </summary> <br> <br> 
 
 <strong>22/04/2025</strong> <br> 
