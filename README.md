@@ -41,10 +41,24 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 <br>
 <br>
 <br>
+
+
+<div>
+<details>
+<summary align="left">Historial del projecte
+</summary>
+<strong>22/04/2025</strong><br>
+<p>En aquest dia creem el Taiga i el grup en el repositori de github també creem el disseny de tot el github per a tenir una bona presentacio dels diagrames</p>
+
+
+</details>
+</div>
+
+
 <div align="center">
 <h3>Enllanços per trobar més informació sobre el projecte</h3>
 <p>
-<a href="https://github.com/felippegh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" width='100' height='30' /></a> 
+<a href="https://github.com/inspedralbes/projecte-1daw-24-25-daw1pj-PataPim" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" width='100' height='30' /></a> 
 <a href="https://tree.taiga.io/project/bryanruzafagon-daw1pj10/backlog" target="_blank"><img alt="Taiga" src="https://docs.taiga.io/imgs/logo.png"  width='100' height='30'  /></a> 
 </p>
 </div>
@@ -52,7 +66,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 <br>
 
 <div align="center">
-<h3>Technologies and Tools I use</h3> 
+<h3>Aplicacions utilitzades per al projecte </h3> 
 
 <a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="postman" width="45" height="45"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
