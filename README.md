@@ -22,11 +22,11 @@ Aquest es el disseny del projecte en l'apartat de github <br>
  
   <strong>Diagrames casos d'ús</strong>
 
+	    
+  <div>
 
-	
     <h3>Diagrama Usuari</h3>
     
-    <div>
     <a href="docs/diagrames/Diagrama_CU_Usuari.drawio.png" target="_blank">
       <img src="docs/diagrames/Diagrama_CU_Usuari.drawio.png" />
     </a>
