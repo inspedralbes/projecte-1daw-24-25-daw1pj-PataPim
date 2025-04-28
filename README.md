@@ -49,7 +49,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
     </a>
   </div>
 
-<details>
+</details>
     
 </div>
 
