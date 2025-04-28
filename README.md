@@ -16,13 +16,13 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 </p>
 
 <div align="left">
-  <h3>Diagrames del projecte</h3>
-	
+<details>
+<summary align="left">Diagrames del projecte </summary> <br> <br> 
+ 
   <strong>Diagrames casos d'ús</strong>
 
 
 
-  <div>
     <h3>Diagrama Usuari</h3>
     <a href="docs/diagrames/Diagrama_CU_Usuari.drawio.png" target="_blank">
       <img src="docs/diagrames/Diagrama_CU_Usuari.drawio.png" />
@@ -47,6 +47,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
     </a>
   </div>
 
+<details>
     
 </div>
 
