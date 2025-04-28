@@ -15,15 +15,16 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<div align="center">
+<div align="right">
   <h3>Diagrames del projecte</h3>
-
+	
   <strong>Diagrames casos d'ús</strong>
-  <p>
-    <a href="diagrames/Diagrama_CU_Usuari.drawio.png" target="_blank">📄 Diagrama d'Usuari </a> <br><br>
-    <a href="diagrames/Diagrama_CU_Tecnic.drawio.png" target="_blank">📄 Diagrama del Tècnic </a> <br><br>
-    <a href="diagrames/Diagrama_CU_Administrador.drawio.png" target="_blank">📄 Diagrama d'Administrador</a>
-  </p>
+
+  
+    <div> <h3> Diagrama Usuari </h3> <a href="diagrames/Diagrama_CU_Usuari.drawio.png" target="_blank">📄 Diagrama d'Usuari </a> </div>  <br><br>
+    <div> <h3> Diagrama Tecnic </h3> <a href="diagrames/Diagrama_CU_Tecnic.drawio.png" target="_blank">📄 Diagrama del Tècnic </a> </div><br><br>
+    <div> <h3><h3> Diagrama Administrador </h3> <a href="diagrames/Diagrama_CU_Administrador.drawio.png" target="_blank">📄 Diagrama d'Administrador</a> </div>
+
 </div>
 
 <br>
