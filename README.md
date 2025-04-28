@@ -11,9 +11,10 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 <br>
 </div>
 
-<div>
-<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</div>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 <div align="center">
   <h3>Diagrames del projecte</h3>
 
