@@ -22,7 +22,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
   <strong>Diagrames casos d'ús</strong>
 
 
-
+	
     <h3>Diagrama Usuari</h3>
     
     <div>
