@@ -27,7 +27,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 
     <h3>Diagrama Usuari</h3>
     
-    <a href="docs/diagrames/Diagrama_CU_Usuari.drawio.png" target="_blank">
+    <a href="docs/diagrames/Diagrama_CU_Usuari.drawio.png">
       <img src="docs/diagrames/Diagrama_CU_Usuari.drawio.png" />
     </a>
   </div>  
