@@ -74,7 +74,8 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 </details>
 </div>
 
-  <a href="https://www.figma.com/design/PFRyiarCOdoHD00SgUn9Gq/WireFrame?node-id=0-1&t=hIA0gaNhj7ETeV4o-1">Enllaç Al wireframe</a>
+  <a href="https://www.figma.com/design/PFRyiarCOdoHD00SgUn9Gq/WireFrame?node-id=0-1&t=uxsPoFSvvXVfqbmq-1">Enllaç Al wireframe</a>
+
 
 <br>
 <br>
