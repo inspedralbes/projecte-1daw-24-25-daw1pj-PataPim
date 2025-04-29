@@ -49,7 +49,27 @@ Aquest es el disseny del projecte en l'apartat de github <br>
   </div>
 
 </details>
-    
+</div>
+
+
+<div>
+<details>
+<summary align="left">Esquemes Base De Dades E-R
+</summary> <br> <br> 
+
+<h3>Diagrama Administrador</h3>
+    <a href="docs/esquemes/Disseny_Inicial.drawio.png" >
+      <img src="docs/esquemes/Disseny_Inicial.drawio.png" />
+    </a>
+
+
+<h3>Diagrama Administrador</h3>
+    <a href="docs/esquemes/Disseny_Model_E-R.drawio.png" >
+      <img src="docs/esquemes/Disseny_Model_E-R.drawio.png" />
+    </a>
+
+
+</details>
 </div>
 
 <br>
