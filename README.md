@@ -17,7 +17,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 
 <div align="left">
 <details>
-<summary align="left">Diagrames del projecte 
+<summary align="left">Diagrames del projecte Programació
 </summary> <br> <br> 
  
   <strong>Diagrames casos d'ús</strong>
@@ -73,6 +73,8 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 
 </details>
 </div>
+
+  <a href="https://www.figma.com/design/PFRyiarCOdoHD00SgUn9Gq/WireFrame?node-id=0-1&t=hIA0gaNhj7ETeV4o-1">Enllaç Al wireframe</a>
 
 <br>
 <br>
