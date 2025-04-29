@@ -25,7 +25,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 <summary align="left">Diagrames del projecte Programació
 </summary> <br> <br> 
  
-  <strong>Diagrames casos d'ús</strong>
+  <h2>Diagrames casos d'ús</h2>
 
 	    
   <div>
