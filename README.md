@@ -63,14 +63,14 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 </summary> <br> <br> 
   
 <div>
-  <h3>Diagrama Administrador</h3>
+  <h2>Esquema Disseny Inicial</h2>
   <a href="docs/esquemes/Disseny_Inicial.drawio.png" >
       <img src="docs/esquemes/Disseny_Inicial.drawio.png" />
     </a>
 </div>
 
 <div>
-  <h3>Diagrama Administrador</h3>
+  <h2>Esquema Model E-R</h2>
   <a href="docs/esquemes/Disseny_Model_E-R.drawio.png" >
       <img src="docs/esquemes/Disseny_Model_E-R.drawio.png" />
     </a>
