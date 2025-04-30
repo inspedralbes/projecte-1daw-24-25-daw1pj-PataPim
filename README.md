@@ -60,14 +60,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 <div>
 <details>
 <summary align="left">Esquemes Base De Dades E-R
-</summary> <br> <br> 
-  
-<div>
-  <h2>Esquema Disseny Inicial</h2>
-  <a href="docs/esquemes/Disseny_Inicial.drawio.png" >
-      <img src="docs/esquemes/Disseny_Inicial.drawio.png" />
-    </a>
-</div>
+</summary> <br> <br>
 
 <div>
   <h2>Esquema Model E-R</h2>
