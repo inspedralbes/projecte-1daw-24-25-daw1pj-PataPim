@@ -14,28 +14,36 @@
 -- Per assegurar-nes de que la codificació dels caràcters d'aquest script és la correcta
 SET NAMES utf8mb4;
 
-CREATE DATABASE IF NOT EXISTS persones
+CREATE DATABASE IF NOT EXISTS a24alvsalalv_daw;
+
   CHARACTER SET utf8mb4
   COLLATE utf8mb4_unicode_ci;
 
 -- Donem permisos a l'usuari 'usuari' per accedir a la base de dades 'persones'
 -- sinó, aquest usuari no podrà veure la base de dades i no podrà accedir a les taules
-GRANT ALL PRIVILEGES ON persones.* TO 'usuari'@'%';
+
+CREATE USER IF NOT EXISTS 'a24alvsalalv_daw'@'%' IDENTIFIED BY 'Pryct@Fin@l9923';
+GRANT ALL PRIVILEGES ON a24alvsalalv_daw.* TO 'a24alvsalalv_daw'@'%';
 FLUSH PRIVILEGES;
 
-
 -- Després de crear la base de dades, cal seleccionar-la per treballar-hi
-USE persones;
+USE a24alvsalalv_daw;
 
 
-CREATE TABLE cases (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(255) NOT NULL
+CREATE TABLE DEPARTAMENT (
+    id_departament INT AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(100) NOT NULL
 );
 
-
+CREATE TABLE USUARI (
+    id_usuari INT AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(100),
+    email VARCHAR(150),
+    departament_id INT,
+    FOREIGN KEY (departament_id) REFERENCES departament(id_departament)
+);
 
 -- Afegim algunes dades inicials a la taula cases
-INSERT INTO cases (name) VALUES ('Casa Milà');
-INSERT INTO cases (name) VALUES ('Casa Batlló');
-INSERT INTO cases (name) VALUES ('Casa Gaudí');
+INSERT INTO DEPARTAMENT (nom) VALUES ('Professorat');
+INSERT INTO DEPARTAMENT (nom) VALUES ('Alumnat');
+INSERT INTO DEPARTAMENT (nom) VALUES ('Secretaria');
