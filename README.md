@@ -89,9 +89,16 @@ Aquest es el disseny del projecte en l'apartat de github <br>
   <a href="/docs/sistemes/requisits.pdf" >
       <img src="docs/sistemes/hola.png"/>
     </a>
+</div>
+
+<div>
+  <a href="/docs/sistemes/requisits.pdf" >
+      <img src="docs/sistemes/hola2.png"/>
+    </a>
 
 
 </div>
+
 
 </details>
 </div>
