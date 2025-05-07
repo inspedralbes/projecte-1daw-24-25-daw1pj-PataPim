@@ -49,7 +49,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
   <div>
     <h3>Diagrama Administrador</h3>
     <a href="docs/diagrames/Diagrama_CU_Administrador.drawio.png" >
-      <img src="/docs/sistemes/hola.png" />
+      <img src="docs/diagrames/Diagrama_CU_Administrador.drawio.png" />
     </a>
   </div>
 
@@ -87,7 +87,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 <div>
   <h2> Requisits Bàsics per a l'execució de l'aplicació</h2>
   <a href="/docs/sistemes/requisits.pdf" >
-      <img src="docs/sistemes/requisits.pdf"/>
+      <img src="docs/sistemes/hola.png"/>
     </a>
 
 
