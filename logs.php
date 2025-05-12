@@ -4,7 +4,6 @@ require 'vendor/autoload.php';
 
 use MongoDB\Client;
 
-// Connexió a MongoDB Atlas
 $uri = "mongodb+srv://a24alvsalalv:nkJAdHbuQRhz90Zc@cluster0.9pxismp.mongodb.net/";
 $client = new Client($uri);
 
