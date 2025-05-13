@@ -1,7 +1,7 @@
 <?php
 require 'vendor/autoload.php';
 
-$client = new MongoDB\Client("mongodb+srv://a24alvsalalv:<nkJAdHbuQRhz90Zc>@cluster0.9pxismp.mongodb.net/");
+$client = new MongoDB\Client("mongodb+srv://a24alvsalalv:nkJAdHbuQRhz90Zc@cluster0.9pxismp.mongodb.net/");
 
 $collection = $client->demo->users;
 
