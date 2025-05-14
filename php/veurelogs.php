@@ -23,48 +23,68 @@ $totalPagines = ceil($totalLogs / $perPagina);
 <head>
     <meta charset="UTF-8">
     <title>Consulta de Logs</title>
-    <link rel="stylesheet" href="verlogs.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-..." crossorigin="anonymous">
 </head>
-<body>
-    <h1>Logs d'Accés (pàgina <?= $pagina ?> de <?= $totalPagines ?>)</h1>
-    <table>
-        <tr>
-            <th>Data i Hora</th>
-            <th>Usuari</th>
-            <th>URL</th>
-            <th>Navegador</th>
-        </tr>
-        <?php foreach ($logs as $log): ?>
-            <?php
-                if (empty($log['timestamp']) && empty($log['usuari']) && empty($log['url'])) {
-                    continue;
-                }
-            ?>
-            <tr>
-                <td>
+<body class="bg-light">
+
+<div class="container my-5">
+    <h1 class="text-center mb-4">Logs d'Accés (pàgina <?= $pagina ?> de <?= $totalPagines ?>)</h1>
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover table-striped">
+            <thead class="table-primary text-center">
+                <tr>
+                    <th>Data i Hora</th>
+                    <th>Usuari</th>
+                    <th>URL</th>
+                    <th>Navegador</th>
+                </tr>
+            </thead>
+            <tbody>
+                <?php foreach ($logs as $log): ?>
                     <?php
-                        if (isset($log['timestamp']) && $log['timestamp'] instanceof MongoDB\BSON\UTCDateTime) {
-                            echo $log['timestamp']->toDateTime()->format('Y-m-d H:i:s');
-                        } else {
-                            echo '—';
+                        if (empty($log['timestamp']) && empty($log['usuari']) && empty($log['url'])) {
+                            continue;
                         }
                     ?>
-                </td>
-                <td><?= htmlspecialchars($log['usuari'] ?? '—') ?></td>
-                <td><?= htmlspecialchars($log['url'] ?? '—') ?></td>
-                <td><?= htmlspecialchars($log['navegador'] ?? '—') ?></td>
-            </tr>
-        <?php endforeach; ?>
-    </table>
+                    <tr>
+                        <td>
+                            <?php
+                                if (isset($log['timestamp']) && $log['timestamp'] instanceof MongoDB\BSON\UTCDateTime) {
+                                    echo $log['timestamp']->toDateTime()->format('Y-m-d H:i:s');
+                                } else {
+                                    echo '—';
+                                }
+                            ?>
+                        </td>
+                        <td><?= htmlspecialchars($log['usuari'] ?? '—') ?></td>
+                        <td><?= htmlspecialchars($log['url'] ?? '—') ?></td>
+                        <td><?= htmlspecialchars($log['navegador'] ?? '—') ?></td>
+                    </tr>
+                <?php endforeach; ?>
+            </tbody>
+        </table>
+    </div>
 
-    <div class="mt">
-        <?php if ($pagina > 1): ?>
-            <a href="?pagina=<?= $pagina - 1 ?>" class="pagines">&laquo; Anterior</a>
-        <?php endif; ?>
+    <div class="d-flex justify-content-center mt-4">
+        <nav>
+            <ul class="pagination">
+                <?php if ($pagina > 1): ?>
+                    <li class="page-item">
+                        <a class="page-link bg-primary text-white" href="?pagina=<?= $pagina - 1 ?>">&laquo; Anterior</a>
+                    </li>
+                <?php endif; ?>
 
-        <?php if ($pagina < $totalPagines): ?>
-            <a href="?pagina=<?= $pagina + 1 ?>" class="pagines">Següent &raquo;</a>
-        <?php endif; ?>
+                <?php if ($pagina < $totalPagines): ?>
+                    <li class="page-item">
+                        <a class="page-link bg-primary text-white" href="?pagina=<?= $pagina + 1 ?>">Següent &raquo;</a>
+                    </li>
+                <?php endif; ?>
+            </ul>
+        </nav>
+    </div>
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-..." crossorigin="anonymous"></script>
 </body>
 </html>
