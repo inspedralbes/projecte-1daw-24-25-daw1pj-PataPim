@@ -16,14 +16,34 @@ tr:hover {
     background-color: #eef;
  }
 
- mt {
-    margin-top: 20px;
+.mt {
+    margin-top: 50px;
     text-align: center;
  }
- ml {
+.ml {
     margin-left: 20px;
  }
 
- mr {
+.mr {
     margin-right: 20px;
  }
+
+ .pagines {
+    background-color: #007bff;  
+    color: white;                
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;       
+    margin: 0 10px;             
+    font-weight: bold;
+    display: inline-block;
+    transition: background-color 0.2s ease;
+}
+
+.pagines:hover {
+    background-color: #0056b3;  
+}
+
+.pagines:visited {
+    color: white;
+}

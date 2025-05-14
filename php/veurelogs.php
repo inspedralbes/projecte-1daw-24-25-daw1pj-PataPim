@@ -59,12 +59,12 @@ $totalPagines = ceil($totalLogs / $perPagina);
 
     <div class="mt">
         <?php if ($pagina > 1): ?>
-            <a href="?pagina=<?= $pagina - 1 ?>" class="mr">&laquo; Anterior</a>
+            <a href="?pagina=<?= $pagina - 1 ?>" class="pagines">&laquo; Anterior</a>
         <?php endif; ?>
 
         <?php if ($pagina < $totalPagines): ?>
-            <a href="?pagina=<?= $pagina + 1 ?>" class="ml" >Següent &raquo;</a>
+            <a href="?pagina=<?= $pagina + 1 ?>" class="pagines">Següent &raquo;</a>
         <?php endif; ?>
-    </div>
+</div>
 </body>
 </html>
