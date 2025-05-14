@@ -25,6 +25,15 @@ $totalPagines = ceil($totalLogs / $perPagina);
     <title>Consulta de Logs</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-..." crossorigin="anonymous">
 </head>
+
+<style>
+    .navegadorespai {
+        max-width: 250px;
+        word-break: break-word;
+        white-space: normal;
+    }
+</style>
+
 <body class="bg-light">
 
 <div class="container my-5">
@@ -59,7 +68,7 @@ $totalPagines = ceil($totalLogs / $perPagina);
                         </td>
                         <td><?= htmlspecialchars($log['usuari'] ?? '—') ?></td>
                         <td><?= htmlspecialchars($log['url'] ?? '—') ?></td>
-                        <td><?= htmlspecialchars($log['navegador'] ?? '—') ?></td>
+                        <td class="navegadorespai"><?= htmlspecialchars($log['navegador'] ?? '—') ?></td>
                     </tr>
                 <?php endforeach; ?>
             </tbody>
