@@ -76,22 +76,30 @@ $totalPagines = ceil($totalLogs / $perPagina);
     </div>
 
     <div class="d-flex justify-content-center mt-4">
-        <nav>
-            <ul class="pagination">
-                <?php if ($pagina > 1): ?>
-                    <li class="page-item">
-                        <a class="page-link bg-primary text-white" href="?pagina=<?= $pagina - 1 ?>">&laquo; Anterior</a>
-                    </li>
-                <?php endif; ?>
+    <nav aria-label="Paginació de logs">
+        <ul class="pagination">
 
-                <?php if ($pagina < $totalPagines): ?>
-                    <li class="page-item">
-                        <a class="page-link bg-primary text-white" href="?pagina=<?= $pagina + 1 ?>">Següent &raquo;</a>
-                    </li>
-                <?php endif; ?>
-            </ul>
-        </nav>
-    </div>
+            <li class="page-item <?= $pagina <= 1 ? 'disabled' : '' ?>">
+                <a class="page-link" href="?pagina=<?= $pagina - 1 ?>" tabindex="-1">Anterior</a>
+            </li>
+
+            <?php
+            $rang = 2;
+            $inici = max(1, $pagina - $rang);
+            $final = min($totalPagines, $pagina + $rang);
+
+            for ($i = $inici; $i <= $final; $i++): ?>
+                <li class="page-item <?= $i == $pagina ? 'active' : '' ?>">
+                    <a class="page-link" href="?pagina=<?= $i ?>" <?= $i == $pagina ? 'aria-current="page"' : '' ?>><?= $i ?></a>
+                </li>
+            <?php endfor; ?>
+
+            <li class="page-item <?= $pagina >= $totalPagines ? 'disabled' : '' ?>">
+                <a class="page-link" href="?pagina=<?= $pagina + 1 ?>">Següent</a>
+            </li>
+
+        </ul>
+    </nav>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-..." crossorigin="anonymous"></script>

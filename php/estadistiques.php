@@ -73,7 +73,7 @@ $ultim = $collection->findOne([], ['sort' => ['timestamp' => -1]]);
                     <ul class="list-group list-group-flush">
                         <?php foreach ($urls as $url): ?>
                             <li class="list-group-item">
-                                <?= htmlspecialchars($url['_id']) ?> — <?= $url['total'] ?> vegades
+                                <?= htmlspecialchars((string)($url['_id'])) ?> — <?= $url['total'] ?> vegades
                             </li>
                         <?php endforeach; ?>
                     </ul>
