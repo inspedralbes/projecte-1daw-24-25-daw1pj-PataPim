@@ -16,7 +16,8 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 </p>
 
 <a href="https://youtu.be/gKVc9uX9Cko?si=m9oVJPVKjmV1oNii" >ENLLAÇ A LA PÀGINA WEB </a> <br> <br>
-<a href="https://www.figma.com/design/PFRyiarCOdoHD00SgUn9Gq/WireFrame?node-id=0-1&t=uxsPoFSvvXVfqbmq-1">Enllaç Al wireframe</a>
+<a href="https://www.figma.com/design/PFRyiarCOdoHD00SgUn9Gq/WireFrame?node-id=0-1&t=uxsPoFSvvXVfqbmq-1">Enllaç Al wireframe</a> <br> <br>
+<a href="https://github.com/inspedralbes/projecte-1daw-24-25-daw1pj-PataPim/php">Més informació del codi aquí</a> <br> <br>
 
 
 <div align="left">
