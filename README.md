@@ -15,7 +15,7 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<a href="https://youtu.be/gKVc9uX9Cko?si=m9oVJPVKjmV1oNii">Enllaç a la pàgina web </a>
+<a href="https://youtu.be/gKVc9uX9Cko?si=m9oVJPVKjmV1oNii">Enllaç a la pàgina web </a> <br> <br>
 <a href="https://www.figma.com/design/PFRyiarCOdoHD00SgUn9Gq/WireFrame?node-id=0-1&t=uxsPoFSvvXVfqbmq-1">Enllaç Al wireframe</a>
 
 
