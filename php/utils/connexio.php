@@ -5,7 +5,7 @@ error_reporting(E_ALL);
 $servername = "db";
 $username = "usuari";
 $password = "paraula_de_pas";
-$database = "";
+$database = "INCIDENCIES";
 
 $conn = new mysqli($servername, $username, $password, $database);
 
