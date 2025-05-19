@@ -31,8 +31,8 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 	    
   <div>
     <h3>Diagrama Usuari</h3>
-    <a href="docs/diagrames/Diagrama_CU_Usuari.drawio.png">
-      <img src="docs/diagrames/Diagrama_CU_Usuari.drawio.png" />
+    <a href="docs/programació/Diagrama_CU_Usuari.drawio.png">
+      <img src="docs/programació/Diagrama_CU_Usuari.drawio.png" />
     </a>
   </div>  
 
@@ -40,8 +40,8 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 
   <div>
     <h3>Diagrama Tecnic</h3>
-    <a href="docs/diagrames/Diagrama_CU_Tecnic.drawio.png">
-      <img src="docs/diagrames/Diagrama_CU_Tecnic.drawio.png" />
+    <a href="docs/programació/Diagrama_CU_Tecnic.drawio.png">
+      <img src="docs/programació/Diagrama_CU_Tecnic.drawio.png" />
     </a>
   </div>
 
@@ -49,8 +49,8 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 
   <div>
     <h3>Diagrama Administrador</h3>
-    <a href="docs/diagrames/Diagrama_CU_Administrador.drawio.png" >
-      <img src="docs/diagrames/Diagrama_CU_Administrador.drawio.png" />
+    <a href="docs/programació/Diagrama_CU_Administrador.drawio.png" >
+      <img src="docs/programació/Diagrama_CU_Administrador.drawio.png" />
     </a>
   </div>
 
@@ -65,8 +65,8 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 
 <div>
   <h2>Esquema Model E-R</h2>
-  <a href="docs/esquemes/Disseny_Model_E-R.drawio.png" >
-      <img src="docs/esquemes/Disseny_Model_E-R.drawio.png" />
+  <a href="docs/bd/Disseny_Model_E-R.drawio.png" >
+      <img src="docs/bd/Disseny_Model_E-R.drawio.png" />
     </a>
 </div>
 
