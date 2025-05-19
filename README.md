@@ -124,8 +124,8 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 
 
 <div>
-  <a href="/docs/anglès/Alvaro_Saldaña_Bryan_Ruzafa_Script.pdf" >
-      <img src="docs/anglès/hola2.png"/>
+  <a href="/docs/anglès/Alvaro_Saldaña_Bryan_Ruzafa_Presentation.pdf" >
+      <img src="docs/anglès/hola3.png"/>
     </a>
 </div>
 
