@@ -80,24 +80,10 @@ Aquest es el disseny del projecte en l'apartat de github <br>
 </summary> <br> <br>
 
 <div>
-  <h2>Diagrama Arquitectura Sistema</h2>
-  <a href="/docs/sistemes/Diagrama_arquitectura_sistema.drawio.png" >
-      <img src="/docs/sistemes/Diagrama_arquitectura_sistema.drawio.png"/>
-    </a>
-
-<div>
   <h2> Requisits Bàsics per a l'execució de l'aplicació</h2>
-  <a href="/docs/sistemes/requisits.pdf" >
-      <img src="docs/sistemes/hola.png"/>
+  <a href="/docs/sistemes/SISTEMES.pdf" >
+      <img src="docs/sistemes/SISTEMES.png"/>
     </a>
-</div>
-
-<div>
-  <a href="/docs/sistemes/requisits.pdf" >
-      <img src="docs/sistemes/hola2.png"/>
-    </a>
-
-
 </div>
 
 
